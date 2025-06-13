@@ -4,4 +4,6 @@ co2 to sl2 deletes your online save and replaces it with your latest seamless co
 
 sl2 to co2 deletes your seamless coop save and replaces it with your latest online save.
 
+This script will create a full backup of your saves and date the created directory.
+
 Open each file and replace STEAMIDHERE in `set "SAVEDIR=STEAMIDHERE"` with the name of the folder containing your saves. This will be a string of numbers most likely starting with a 7.
