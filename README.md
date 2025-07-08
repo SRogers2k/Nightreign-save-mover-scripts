@@ -1,4 +1,4 @@
-Open each file and replace STEAMIDHERE in <`set "SAVEDIR=STEAMIDHERE"`> with the name of the folder containing your saves. This will be a string of numbers most likely starting with a 7.
+Open each file and replace STEAMIDHERE in `set "SAVEDIR=STEAMIDHERE"` with the name of the folder containing your saves. This will be a string of numbers most likely starting with a 7.
 
 Put these scripts in your %appdata%/Nightreign directory. Run from there.
 This script will create a full backup of your saves and date the created directory.
