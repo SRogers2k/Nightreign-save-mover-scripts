@@ -3,6 +3,8 @@ Open each file and replace STEAMIDHERE in `set "SAVEDIR=STEAMIDHERE"` with the n
 Put these scripts in your %appdata%/Nightreign directory. Run from there.
 This script will create a full backup of your saves and date the created directory.
 
+ADDED: save-mover.bat does exactly the same as the other scripts. Still needs editing with your SteamID but will now prompt you to enter 1 or 2 depending on what option you want. More user friendly (I guess).
+
 co2 to sl2 deletes your online save and replaces it with your latest seamless coop save.
 
 sl2 to co2 deletes your seamless coop save and replaces it with your latest online save.
